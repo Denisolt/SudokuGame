@@ -19,6 +19,5 @@ Use any JAVA IDE (Netbeans, Eclipse, BlueJ) in order to run or command line:
 cd SudokuGame/src/sudoku/
 javac SudokuDrive.java
 java SudokuDrive.java
-
 ```
 This project was created in Netbeans
